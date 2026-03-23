@@ -56,6 +56,7 @@ npm run dev
 clon-twitter/
 ├── src/
 │   ├── components/
+│   │   ├── Footer.jsx         → footer de la web
 │   │   ├── NewPostForm.jsx    → formulario para publicar
 │   │   ├── PostList.jsx       → lista de posts con búsqueda y orden
 │   │   ├── PostCard.jsx       → tarjeta individual de post
