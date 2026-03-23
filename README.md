@@ -1,4 +1,4 @@
-# 🐦 Twitter Clone
+# 🐦 RedBird - Twitter Clone
 
 Una aplicación web que replica las funcionalidades principales de Twitter, construida con React y React Router.
 
